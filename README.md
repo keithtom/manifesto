@@ -1,0 +1,3 @@
+# Manifesto
+
+A first step.
